@@ -1,0 +1,132 @@
+body{
+    background-image: url(imagens/background.jpg)
+}
+
+    
+    
+.cadastro{
+    
+    border-radius: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    height:50%;
+    margin-top: 50px;
+    border: hidden;
+    
+}
+legend{
+    color: aqua
+}
+
+.tudo{
+    border: 2px solid aquamarine;
+   border-radius: 5px;
+   width: 500px;
+   height: 500px;
+   background-image: url(imagens/back.jpg);
+   
+  
+}
+.peple{
+    width: 50px;
+    height: 50px;
+    opacity: 0.50;
+    
+    
+}
+.senha{
+    
+    border-radius: 5px;
+   
+    background-color: aliceblue;
+    width: 50%;
+    height:65%;
+    margin-top: 20px;
+    border: hidden;
+    
+
+    
+}
+.code{
+    width: 50px;
+    height: 50px;
+    opacity: 0.50;
+}
+
+
+
+
+
+label{
+    color: gray; margin-top: 50px;
+
+}
+.baixo{
+    
+    display: inline;
+}
+.submit{
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color:gray
+}
+.titulo{
+   color:gray;
+   
+    
+}
+.saia{
+    display: inline-table;
+    margin-right:  250px; 
+    color: antiquewhite;
+     text-decoration: none;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+.social{
+    border: 2px solid royalblue;
+    border-radius: 5px;
+    color-interpolation-filters: sRGB;
+    color: blue;
+    background-color: royalblue;
+    margin-top: 20px
+}
+.LINKS{
+    border: 2px solid #9C6C1D;
+    border-radius: 5px;
+    color-interpolation-filters: sRGB;
+    color: black;
+    background-color: #9C6C1D;
+    margin-top: 20px
+}
+.midias{
+    border: 2px solid #77B30F;
+    border-radius: 5px;
+    color-interpolation-filters: sRGB;
+   
+    background-color: #77B30F;
+    margin-top: 20px
+}
+.fale{
+    text-decoration-line: none;
+    color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 60px;
+
+    
+}
+button:hover{
+    color: brown;
+    cursor: pointer
+}
+.submit:hover{
+    cursor: pointer;
+}
+
+
+
+

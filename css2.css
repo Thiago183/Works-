@@ -1,0 +1,66 @@
+body{
+    background-image: url("imagens/bg.jpg")
+}
+.imagem{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100%;
+    height: 250px;
+}
+.principal{
+    border: 2px solid whitesmoke;
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.btc{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 230px;
+    font-size: 20px;
+    background-color: yellow;
+    margin-left: 60px;
+    padding: 50px
+  
+    
+    
+}
+a:link{
+    text-decoration: none;
+}
+.ethereum{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 250px;
+    font-size: 20px;
+    background-color: blue;
+    margin-left: 20px;
+    margin: 50px;
+  
+   
+   
+    
+    
+}
+.botao{
+    border: none;
+    color: black;
+    background-color: darkorange;
+}
+.tab{
+  
+    width: 200;
+    height: 50%;
+    display:table
+}
+.balela{
+    background-color: cadetblue;
+    width: 100%;
+    height: 250px;
+}
+.lite{
+    border: 2px solid blue;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
